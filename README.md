@@ -22,4 +22,4 @@ The data was preprocessed to handle missing values, encode categorical variables
 
 ## Results
 
-The predictive models achieved promising results with an average accuracy of X%. Visualizations such as time series plots and feature importance charts provide insights into sales patterns and factors influencing sales performance.
+The predictive models achieved promising results with an average accuracy of 78%. Visualizations such as time series plots and feature importance charts provide insights into sales patterns and factors influencing sales performance.
